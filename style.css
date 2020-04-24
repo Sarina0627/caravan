@@ -77,7 +77,7 @@ header .headline{
 /* ブログ */
 .blog{
   width:600px;
-  height:1400px;
+  
   background-color: limegreen;
   float:left;
 }
